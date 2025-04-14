@@ -61,5 +61,5 @@
 
 ## 📈 Статистика
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=твояссылка&show_icons=true)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=volynce&show_icons=true)
 
