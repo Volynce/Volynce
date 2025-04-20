@@ -34,7 +34,7 @@
    - **Метрика:** Accuracy, ROC-AUC  
    - **Демо:** [Пример на GitHub](https://github.com/Volynce/credit_classifier)
 
-2. **[bank_segmentation_clustering_methods](./bank_segmentation_clustering_methods)**: Проект по сегментации клиентов банка с использованием методов кластеризации. Это поможет банку таргетировать маркетинговые кампании для различных сегментов клиентов.  
+2. **[bank_segmentation_clustering_methods](https://github.com/Volynce/bank_segmentation_clustering_methods)**: Проект по сегментации клиентов банка с использованием методов кластеризации. Это поможет банку таргетировать маркетинговые кампании для различных сегментов клиентов.  
    - **Используемые технологии:** Python, scikit-learn, pandas  
    - **Тип задачи:** Кластеризация  
    - **Метрика:** Silhouette Score  
