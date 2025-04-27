@@ -46,7 +46,7 @@
    - **Метрика:** RMSE, R²  
    - **Демо:** [Пример на GitHub](https://github.com/Volynce/wine_quality_regression_analysis)
 
-4. **[Classification Models ROC](https://github.com/Volynce/classification_models_ROC)**:
+4. **[Classification Models ROC](https://github.com/Volynce/classification_models_ROC)**: Проект по многоклассовой классификации с использованием различных моделей машинного обучения, включая дерево решений, случайный лес и метод ближайших соседей. Для оценки эффективности моделей использованы ROC кривые. Процесс включает предобработку данных, обучение моделей и визуализацию результатов.
    - **Используемые технологии:** Python, scikit-learn, pandas, matplotlib  
    - **Тип задачи:** Классификация  
    - **Метрика:** ROC AUC, Classification Report  
