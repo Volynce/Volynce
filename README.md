@@ -46,11 +46,15 @@
    - **Метрика:** RMSE, R²  
    - **Демо:** [Пример на GitHub](https://github.com/Volynce/wine_quality_regression_analysis)
 
-4. **[Diamonds](https://github.com/Volynce/wine_quality_regression_analysis)**:
+4. **[Classification Models ROC](https://github.com/Volynce/classification_models_ROC)**:
+   - **Используемые технологии:** Python, scikit-learn, pandas, matplotlib  
+   - **Тип задачи:** Классификация  
+   - **Метрика:** ROC AUC, Classification Report  
+   - **Демо:** [Пример на GitHub](https://github.com/Volynce/classification_models_ROC)
 
-5. **[NLP model](https://github.com/Volynce/wine_quality_regression_analysis)** 
+6. **[NLP model](https://github.com/Volynce/wine_quality_regression_analysis)** 
 
-6. **[RAG for book](.)** (in process): Проект по созданию модели генерации ответов для книг. Модель будет генерировать ответы на вопросы, основанные на тексте книги, используя методы машинного обучения для обработки естественного языка (NLP).  
+7. **[RAG for book](.)** (in process): Проект по созданию модели генерации ответов для книг. Модель будет генерировать ответы на вопросы, основанные на тексте книги, используя методы машинного обучения для обработки естественного языка (NLP).  
    - **Используемые технологии:** Python, transformers, Hugging Face  
    - **Тип задачи:** Генерация текста  
    - **Метрика:** BLEU, ROUGE 
